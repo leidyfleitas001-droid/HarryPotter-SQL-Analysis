@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>true</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>2d754e06-7819-4190-a040-cbba92b837d0</Identity>
+    <Start>2026-04-01T20:14:36.8971920+00:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=170.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91</ProductName>
+    <ProductVersion>170.0.95.1</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Azure (RTM) - 12.0.2000.8 
+	Feb  7 2026 14:31:25 
+	Copyright (C) 2025 Microsoft Corporation
+</ServerVersion>
+    <ObjectCounts>
+      <DatabaseOptions>1</DatabaseOptions>
+      <PrimaryKeyConstraint>6</PrimaryKeyConstraint>
+      <SimpleColumn>31</SimpleColumn>
+      <Table>6</Table>
+    </ObjectCounts>
+  </Server>
+  <ExportStatistics>
+    <SourceDatabaseSize>5032</SourceDatabaseSize>
+    <TableRowCountTotalTag>7987</TableRowCountTotalTag>
+  </ExportStatistics>
+  <Checksums>
+    <Checksum Uri="/model.xml">DEE056F978EFD359FBCE757222DD8DCF5FF58BD35F67A017BE6596A3A8D9211F</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.5</ModelSchemaVersion>
+  <DataPhaseTables>dbo.Dialogue,dbo.Chapters_,dbo.Spells,dbo.Movies,dbo.Places,dbo.Characters</DataPhaseTables>
+</DacOrigin>
